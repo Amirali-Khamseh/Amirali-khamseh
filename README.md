@@ -1,5 +1,8 @@
 # 💫 About Me:
-As a software engineer and web engineering master's student, I'm ready to collaborate on the following:<br>🚀 Design & UI/UX:<br>Collaboration or consultation on designing a responsive layout for different screen sizes and a custom UI/UX based on requirements.<br>💡 Full-Stack Mastery:<br>Implementation of both front-end and back-end, including database design and query optimization.<br>🔍 Search Engine Optimization (SEO):<br>Search engine optimization and improving the semantic and accessibility of a web application.<br>🛠️ Deployment & Maintenance:<br>Deployment and maintenance for creating enterprise-scale software products.
+<Hello world! />
+I am Amir , a software engineer and a current Web Engineering master's student 👨‍💻.
+My main field of work, study, and hobby is the web and technologies surrounding it 🌐. It is not just my profession but also my obsession. While my expertise lies in frontend development, I am always open to learning new things in this field. Currently, I am in the learning phase of distributed system design patterns/architecture and cloud integration.
+ 
 
 
 ## 🌐 Socials:
