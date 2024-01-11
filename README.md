@@ -1,7 +1,7 @@
 # 💫 About Me:
-<Hello world! />
-I am Amir , a software engineer and a current Web Engineering master's student 👨‍💻.
-My main field of work, study, and hobby is the web and technologies surrounding it 🌐. It is not just my profession but also my obsession. While my expertise lies in frontend development, I am always open to learning new things in this field. Currently, I am in the learning phase of distributed system design patterns/architecture and cloud integration.
+<Hello world! /> <br/>
+I am Amir , a software engineer and a current Web Engineering master's student 👨‍💻.<br/>
+My main field of work, study, and hobby is the web and technologies surrounding it 🌐. It is not just my profession but also my obsession. While my expertise lies in frontend development, I am always open to learning new things in this field.<br/> Currently, I am in the learning phase of distributed system design patterns/architecture and cloud integration.
  
 
 
