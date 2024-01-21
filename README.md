@@ -1,7 +1,5 @@
 # 💫 About Me:
-<Hello world! /> <br/>
-I am Amir , a software engineer and a current Web Engineering master's student 👨‍💻.<br/>
-My main field of work, study, and hobby is the web and technologies surrounding it 🌐. It is not just my profession but also my obsession. While my expertise lies in frontend development, I am always open to learning new things in this field.<br/> Currently, I am in the learning phase of distributed system design patterns/architecture and cloud integration.
+Hello there 👋 My name is Amir. I'm currently pursuing a master's degree in web engineering at TU Chemnitz. I've also graduated as a top software engineer from the Technical University of Budapest. For the past few years, I've been actively involved in the web development process, which includes designing, developing, testing, and optimizing websites. To me, working with web technologies is not just a profession, it's more of an obsession 👨‍💻. My primary tech stack revolves around JavaScript technologies, and I specialize in working on the frontend. However, I'm also comfortable dealing with backend challenges such as server-side logic and database operations.
  
 
 
