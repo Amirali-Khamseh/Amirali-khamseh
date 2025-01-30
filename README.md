@@ -10,9 +10,6 @@ For now, my main focus is getting to know AWS and its services and taking my fir
 
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amirali-Khamseh&theme=radical&hide_border=false)<br/>
 
 
 
