@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi👋🏻, I'm Amir, a Master's student in Web Engineering at TU Chemnitz. I develop web applications end-to-end, handling everything from design to implementation and monitoring. I have experience with cloud services provided by AWS and AI integration, and focus on building scalable, well-structured solutions that solve real problems.
+Hi👋🏻, I'm Amir. I develop web applications end-to-end, handling everything from design to implementation and monitoring. I have experience with cloud services provided by AWS and AI integration, and focus on building scalable, well-structured solutions that solve real problems.
 
 ## 🌐 Connect with Me:
 
