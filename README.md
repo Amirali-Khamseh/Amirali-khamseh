@@ -15,7 +15,7 @@
 │ react             node.js           aws                             │
 │ typescript        express           docker                          │
 │ tanstack-router   postgresql        kubernetes                      │
-│                                     ci/cd                            │
+│                                     ci/cd                           │
 │                                                                     │
 │ amir@cloud:~$ ./connect.sh                                          │
 │ website   -> amir-khamseh.com                                       │
